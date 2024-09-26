@@ -1,4 +1,4 @@
-<h1> Flight Price Prediction (Kaggle) - ML Python Project</h1>
+<h1>Flight Price Prediction using Machine Learning in Python on Kaggle</h1>
 <br>
 <h2>Features</h2>
 <ul>
